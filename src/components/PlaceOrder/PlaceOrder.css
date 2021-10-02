@@ -1,0 +1,9 @@
+.divv{
+  display: flex;
+  justify-content: center;
+}
+    
+.imgg{
+    margin-top: 60px;
+  width: 600px;
+}
